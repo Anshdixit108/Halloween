@@ -1,0 +1,10 @@
+A 		- winksmile
+B 		- sad
+X		- teeth
+Y		- angry
+Left Bumper	- afraid
+Right Bumper	- cry
+Back button	- love
+Start Button	- mask
+L. Stick In	- sunglass
+R. Stick In	- tounge
